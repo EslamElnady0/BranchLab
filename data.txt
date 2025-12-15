@@ -1,1 +1,8 @@
+
 one extra line in data on feat1
+
+saim line 1
+saim line 2
+saim line 3
+saim line 1
+
